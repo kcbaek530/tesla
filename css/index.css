@@ -111,3 +111,18 @@ background-color: rgba(255,255,255,1);}
   background-color: rgba(255,0,0,1);}
 
 .hero_slide_index_button { font-size: 30px; font-weight: 400;}
+
+/* Brand Story CSS */
+
+.brandstory_1 { width: 100%; height: auto; padding-top: 80px; padding-left: 130px; padding-right: 130px; text-align: center;}
+.brandstory_1_symbol { width: 60px;}
+.brandstory_1_title { font-family: 'Futura PT'; font-size: 48px; font-weight: 400; line-height: 48px;}
+.brandstory_1_p { 
+  font-family: 'Noto Sans'; font-size: 16px;
+font-weight: 400; line-height: 24px;
+margin-top: 20px; }
+
+.brandstory_1_vision { 
+  margin-top: 60px; margin-bottom: 60px;
+  font-family: 'Noto Sans'; font-size: 48px;
+  font-weight: 400; line-height: 48px; }
